@@ -1,0 +1,161 @@
+{
+    "blog":{
+        "content":{
+            "heading":"text",
+            "sub_heading":"text"
+        },
+        "element":{
+            "image":"file",
+            "size":"750x422",
+            "is_category":"on",
+            "heading":"text",
+            "tag" : "text",
+            "seo_description":"textarea",
+            "short_description":"textarea",
+            "details":"textarea_nic",
+            "unique":"heading"
+        }
+    },
+    "banner":{
+        "no_selection":true,
+       "content":{
+            "image":"file",
+            "size" : "434x434",
+            "title":"text",
+            "sub_title":"text"
+       }
+    },
+    "service":{
+        "content":{
+            "title":"text",
+            "sub_title":"text"
+        },
+        "element":{
+            "image":"file",
+            "size":"300x300",
+            "title":"text",
+            "details":"textarea"
+        }
+    },
+
+    "counter":{
+        "content":{
+            "backgroud":"file",
+            "size":"1894x325"
+        },
+        "element":{
+            "icon":"icon",
+            "counter":"text",
+            "title":"text"
+        }
+    },
+    "category":{
+        "content":{
+            "title":"text",
+            "button_text":"text",
+            "sub_title":"textarea"
+        }
+    },
+
+    "testimonial":{
+        "content":{
+            "image":"file",
+            "size":"1894x325",
+            "title":"text",
+            "sub_heading":"text"
+        },
+        "element":{
+            "client_image":"file",
+            "size":"300x300",
+            "quote":"textarea",
+            "name":"text",
+            "designation":"text"
+        }
+    },
+    "team": {
+        "content":{
+            "title":"text",
+            "sub_title":"text"
+        }
+    },
+    "subscribe":{
+        "content":{
+            "image":"file",
+            "size":"1894x325",
+            "title":"text",
+            "button_text":"text",
+            "sub_title":"textarea"
+        }
+    },
+    "brand":{
+        "element":{
+            "image":"file",
+            "size":"600x300"
+
+        }
+    },
+
+    "breadcrumb":{
+        "no_selection":true,
+        "content":{
+            "image":"file",
+            "size":"1300x542"
+        }
+    },
+    "about":{
+        "content":{
+            "short_description":"textarea",
+            "details":"textarea_nic"
+        }
+    },
+    "faq":{
+        "element":{
+            "is_category":"on",
+            "question":"text",
+            "answer":"textarea_nic"
+        }
+    },
+    "contact":{
+        "content":{
+            "title":"text",
+            "sub_title":"text",
+            "phone":"text",
+            "email":"text",
+            "address":"text",
+            "button_text":"text",
+            "map_link" : "textarea"
+        }
+    },
+
+    "social":{
+        "no_selection":true,
+        "element":{
+            "social_icon":"icon",
+            "social_link":"text"
+        }
+    },
+
+    "footer":{
+        "no_selection":true,
+        "content":{
+            "image":"file",
+            "size":"1300x542",
+            "copyright":"text",
+            "short_description":"textarea"
+        }
+    },
+
+    "policy":{
+        "no_selection":true,
+        "element":{
+            "page_name":"text",
+            "slug":"text",
+            "details":"textarea_nic"
+        }
+    },
+    "custom":{
+        
+    }
+
+   
+}

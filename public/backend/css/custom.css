@@ -1,0 +1,49 @@
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove{
+    background-color: red;
+    color: #fff;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__display{
+    padding-left: 12px;
+}
+
+.image-circle{
+   width:75px;
+   height:75px;
+   border-radius: 50%;
+   object-fit: cover;
+}
+.image-rounded{
+   width:75px;
+   height:75px;
+   object-fit: cover;
+}
+
+.image-preview{
+    background: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clear{
+    cursor: pointer;
+}
+
+.nav-select{
+    background: transparent;
+    color: #fff;
+    border: none;
+}
+
+.nav-select option{
+    color: black;
+}
+
+.nav-select:focus-visible{
+    outline:none;
+}
+
+.avatar-upload .avatar-edit input + label:after {
+    font-weight: 700!important;
+    font-family: "Font Awesome 5 Free"!important;
+}

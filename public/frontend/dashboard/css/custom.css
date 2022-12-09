@@ -1,0 +1,38 @@
+
+    .image-circle{
+        width: 75px;
+        height:75px;
+        border-radius: 50%;
+        margin: 10px 0;
+        object-fit: cover;
+    }
+
+    .image-preview{
+        background: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .rounded-circle{
+        height:28px;
+    }
+
+    .image-rounded{
+        width: 75px;
+        height:75px;
+        margin: 10px 0;
+        object-fit: cover;
+    }
+    .nav-select{
+        background: transparent;
+        color: #fff;
+        border: none;
+    }
+    
+    .nav-select option{
+        color: black;
+    }
+    
+    .nav-select:focus-visible{
+        outline:none;
+    }
